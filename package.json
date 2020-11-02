@@ -1,0 +1,31 @@
+{
+    "name": "triterras-node",
+    "version": "1.0.0",
+    "description": "",
+    "main": "triterras-nodeMVC.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node triterras-nodeMVC.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bitcoinjs-lib": "latest",
+        "body-parser": "latest",
+        "colu": "latest",
+        "crypto": "^1.0.1",
+        "dateformat": "latest",
+        "express": "latest",
+        "fs": "latest",
+        "http": "0.0.0",
+        "https": "^1.0.0",
+        "md5": "latest",
+        "mysql": "latest",
+        "node-array": "latest",
+        "node-constants": "0.0.2",
+        "node-fetch": "latest",
+        "redis": "latest",
+        "request": "latest",
+        "util": "latest"
+    }
+}
